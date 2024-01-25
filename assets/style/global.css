@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+:root {
+    --Primary-Green: hsl(75, 94%, 57%);
+    --Neutral-White: hsl(0, 0%, 100%);
+    --Neutral-Grey: hsl(0, 0%, 20%);
+    --Neutral-Dark-Grey: hsl(0, 0%, 12%);
+    --Neutral-Off-Black: hsl(0, 0%, 8%);
+
+    --Size-paragraph: 14px;
+    --Font-Inter: 'Inter', sans-serif;
+    --Inter400: 400;
+    --Inter600: 600;
+    --Inter700: 700;
+
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
